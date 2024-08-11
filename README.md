@@ -1,6 +1,6 @@
 
 <div id="rendered-md"><h1 id="password-manager-hosted-on-aws-cloud-declan-worley">Password Manager Hosted on AWS Cloud | Declan Worley</h1>
-<hr>
+
 <h2 id="objective">Objective:</h2>
 <p>To setup and configure Passbolt, an open-source password manager, on an AWS Ec2 Instance. In this lab, we will walk through my process of creating the EC2 instance, configuring Passbolt on the instance, and securing the traffic to our password manager with HTTPS.</p>
 <h4 id="systemssoftware-utilized-aws-ec2-instance-passbolt-ubuntu-24">Systems/Software Utilized: AWS EC2 Instance, Passbolt, Ubuntu 24</h4>
