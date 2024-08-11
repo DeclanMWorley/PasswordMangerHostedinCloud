@@ -71,13 +71,12 @@
 <div style="display: flex; flex-direction: row;" class="jop-noMdConv"><div style="margin-right: 10px;" class="jop-noMdConv"><img src="./_resources/16983461a10a4fa9b980995f12774451.png" width="448" class="jop-noMdConv" height="50%"/></div><div class="jop-noMdConv"><img src="./_resources/1b4647f98b324c5b88286f0fa4134942.png" width="687" class="jop-noMdConv" height="50%"/></div></div>
 <h3 id="setup-complete-lets-test-it">Setup Complete, Let's test it</h3>
 <p>I found out that Passbolt doesn't work well with Opera, but it supports Chrome, Edge, Firefox, and other popular browsers. For this lab, I will use the extension for Microsoft Edge. Next, you are guided to make a passphrase to access your Passbolt account, download your recovery kit in case of lost access, and making a security token. Here my test security token is a gray TST, this will help ensure you aren't on a phising page.</p>
-<div style="display: flex; justify-content: center; " class="jop-noMdConv">
     
-    <div style="display: flex; align-items: center;" class="jop-noMdConv">
+<div style="display: flex; align-items: center;" class="jop-noMdConv">
         <img src="./_resources/b18fff4c2a9b40ce89f41db57338f2c3.png" width="45%" style="margin-right: 15px;" class="jop-noMdConv"/>
         <img src="./_resources/a13d4a4fa73b41f9b26cff3ffa47e729.png" width="70%" class="jop-noMdConv"/>
-    </div>
 </div>
+
 <div style="text-align:center; " class="jop-noMdConv">
     <div style="margin-right: 10px;" class="jop-noMdConv">
         <img src="./_resources/6ef57f1babff4e469d4a52b59b16834e.png" width="50%" class="jop-noMdConv"/>
